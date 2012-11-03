@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ContosoPhoto</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0.RC/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0.RC/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0.RC/js/ui.js"></script>
+
+    <!-- ContosoPhoto references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <div id="main">
+        <canvas id="photo"></canvas>
+        <div id="message">Tap here to open a photo</div>
+    </div>
+    <div id="appbar" data-win-control="WinJS.UI.AppBar">
+        <button id="openButton" data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'open', label:'Open', icon:'&#xE160;', section: 'selection'}"></button>
+        <button id="saveButton" data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'save', label:'Save', icon:'&#xE105;', section: 'selection'}"></button>
+    </div>
+</body>
+</html>

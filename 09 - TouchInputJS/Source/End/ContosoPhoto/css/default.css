@@ -1,0 +1,37 @@
+﻿body {
+    margin:  0;
+    background: white;
+    height: 100%;
+}
+
+#main {
+    display: -ms-grid;
+    -ms-grid-columns: 1fr;
+    -ms-grid-rows: 1fr;
+    height: 100%;
+}
+
+#message {
+    color:  #4080E0;
+    font-size: 48px;
+    -ms-grid-column-align: center;
+    -ms-grid-row-align: center;
+}
+
+#photo {
+    -ms-grid-column-align: center;
+    -ms-grid-row-align: center;
+    -ms-transform-origin: 50%;
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

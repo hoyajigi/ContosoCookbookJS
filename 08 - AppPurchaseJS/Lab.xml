@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>AppPurchase_JS</Id>
+  <Technologies>
+    <Technology>Windows 8 Metro style apps</Technology>
+  </Technologies>
+  <Author>
+    <Blog></Blog>
+    <Email>jaimer@microsoft.com</Email>
+    <Name>JaimeR</Name>
+  </Author>
+  <Description>
+    In this lab, you will use the Windows Store trial and in-app purchase APIs within the Contoso Cookbook app. You will use the windowsstoreproxy.xml to simulate in-app purchase options within your app.
+  </Description>
+  <Document ConversionType="Html">.\Lab.docx</Document>
+  <Title>Monetizing your app: trials and in-app purchases</Title>
+  <Version>1.0.0</Version>
+  <Source>.\Source</Source>
+  <CustomProperties>
+    <Property Name="LongDescription" Value="&lt;p&gt;In this lab, you will use the Windows Store trial and in-app purchase APIs within the Contoso Cookbook app. You will use the windowsstoreproxy.xml to simulate in-app purchase options within your app.&lt;/p&gt;" />
+  </CustomProperties>
+</Lab>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>Settings_JS</Id>
+  <Technologies>
+    <Technology>Windows 8 Metro style apps</Technology>
+  </Technologies>
+  <Author>
+    <Blog></Blog>
+    <Email>jaimer@microsoft.com</Email>
+    <Name>JaimeR</Name>
+  </Author>
+  <Description>
+    In this lab you will wire up a settings screen for Contoso Cookbook. You will save and restore roaming settings and seamlessly integrate with the Operating system’s settings charm.
+  </Description>
+  <Document ConversionType="Html">.\Lab.docx</Document>
+  <Title>Settings and Preferences</Title>
+  <Version>1.0.0</Version>
+  <Source>.\Source</Source>
+  <CustomProperties>
+    <Property Name="LongDescription" Value="&lt;p&gt;In this lab you will wire up a settings screen for Contoso Cookbook. You will save and restore roaming settings and seamlessly integrate with the Operating system’s settings charm.&lt;/p&gt;" />
+  </CustomProperties>
+</Lab>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>Assets_JS</Id>
+  <Technologies>
+    <Technology>Windows 8 Metro style apps</Technology>
+  </Technologies>
+  <Author>
+    <Blog></Blog>
+    <Email>jaimer@microsoft.com</Email>
+    <Name>JaimeR</Name>
+  </Author>
+  <Description>
+    Assets folder
+  </Description>
+  <Document ConversionType="Html">.\Lab.docx</Document>
+  <Title>Assets folder</Title>
+  <Version>1.0.0</Version>
+  <Source>.\Source</Source>
+  <CustomProperties>
+    <Property Name="LongDescription" Value="&lt;p&gt;Assets folder.&lt;/p&gt;" />
+  </CustomProperties>
+</Lab>

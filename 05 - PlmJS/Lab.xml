@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>PLM_JS</Id>
+  <Technologies>
+    <Technology>Windows 8 Metro style apps</Technology>
+  </Technologies>
+  <Author>
+    <Blog></Blog>
+    <Email>jaimer@microsoft.com</Email>
+    <Name>JaimeR</Name>
+  </Author>
+  <Description>
+    In this lab you will handle the process life-time management events in a Metro style app. You will save data in the suspending event, and restore it in the launching event so that the users have a seamless experience as the app’s lifetime is managed by the OS.
+  </Description>
+  <Document ConversionType="Html">.\Lab.docx</Document>
+  <Title>Lifetime management: saving and restoring state</Title>
+  <Version>1.0.0</Version>
+  <Source>.\Source</Source>
+  <CustomProperties>
+    <Property Name="LongDescription" Value="&lt;p&gt;In this lab you will handle the process life-time management events in a Metro style app. You will save data in the suspending event, and restore it in the launching event so that the users have a seamless experience as the app’s lifetime is managed by the OS.&lt;/p&gt;" />
+  </CustomProperties>
+</Lab>

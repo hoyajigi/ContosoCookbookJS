@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>CaptureAndPlayMedia_JS</Id>
+  <Technologies>
+    <Technology>Windows 8 Metro style apps</Technology>
+  </Technologies>
+  <Author>
+    <Blog></Blog>
+    <Email>jaimer@microsoft.com</Email>
+    <Name>JaimeR</Name>
+  </Author>
+  <Description>
+    In this lab you will capture photos and video so you can brag about your favorite recipe creations to your friends using the Share contract you implemented in the previous lab.
+  </Description>
+  <Document ConversionType="Html">.\Lab.docx</Document>
+  <Title>Media capture</Title>
+  <Version>1.0.0</Version>
+  <Source>.\Source</Source>
+  <CustomProperties>
+    <Property Name="LongDescription" Value="&lt;p&gt;In this lab you will capture photos and video so you can brag about your favorite recipe creations to your friends using the Share contract you implemented in the previous lab.&lt;/p&gt;" />
+  </CustomProperties>
+</Lab>
